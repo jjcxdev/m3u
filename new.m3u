@@ -1,0 +1,1123 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn6g9r6tqerdpyd1w"
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="US| A&E HD" tvg-logo="http://103.176.90.118/picons/logos/logos/AME.png" group-title="US| ENTERTAINMENT",US| A&E HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45619.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| ABC HD" tvg-logo="http://103.176.90.118/picons/logos/ABC-HD.png" group-title="US| ENTERTAINMENT",US| ABC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45439.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| ADULT SWIM HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ADULT-SWIM-WEST.png" group-title="US| ENTERTAINMENT",US| ADULT SWIM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/150345.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US| AMC HD" tvg-logo="http://103.176.90.118/picons/logos/AMC-HD.png" group-title="US| ENTERTAINMENT",US| AMC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45445.m3u8
+#EXTINF:-1 tvg-id="AMCplus.us" tvg-name="US| AMC PLUS" tvg-logo="http://103.176.90.118/picons/logos/USA/AMC-PLUS.png" group-title="US| ENTERTAINMENT",US| AMC PLUS
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/534381.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US| ANIMAL PLANET HD" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-PLANET-HD.png" group-title="US| ENTERTAINMENT",US| ANIMAL PLANET HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45447.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="US| VICE FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/VICE.png" group-title="US| ENTERTAINMENT",US| VICE FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1459895.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US| BRAVO HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BRAVO.png" group-title="US| ENTERTAINMENT",US| BRAVO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45446.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US| COMEDY CENTRAL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png" group-title="US| ENTERTAINMENT",US| COMEDY CENTRAL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45448.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="US| COMEDY TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/COMEDY.png" group-title="US| ENTERTAINMENT",US| COMEDY TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91944.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="US| COOKING CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/USA/COOKING-CHANNEL.png" group-title="US| ENTERTAINMENT",US| COOKING CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45591.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| COURT TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/COURT.png" group-title="US| ENTERTAINMENT",US| COURT TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/150347.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CRIME & INVESTIGATION HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRIME-INVESTIGATION.png" group-title="US| ENTERTAINMENT",US| CRIME & INVESTIGATION HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90938.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| DISCOVERY FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-FAMILY.png" group-title="US| ENTERTAINMENT",US| DISCOVERY FAMILY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45443.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="US| ENTERTAINMENT",US| DISCOVERY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45442.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| DISCOVERY LIFE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-LIFE.png" group-title="US| ENTERTAINMENT",US| DISCOVERY LIFE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91820.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| DISCOVERY SCIENCE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-SCIENCE.png" group-title="US| ENTERTAINMENT",US| DISCOVERY SCIENCE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45441.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="US| DISCOVERY TURBO" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-TURBO.png" group-title="US| ENTERTAINMENT",US| DISCOVERY TURBO
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1092802.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/eentertainment.png" group-title="US| ENTERTAINMENT",US| E! ENTERTAINMENT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45584.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| GAME SHOW CENTRAL" tvg-logo="http://51.158.145.100/picons/logos/USA/GAME-SHOW-CENTRAL.png" group-title="US| ENTERTAINMENT",US| GAME SHOW CENTRAL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1783056.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NASA + HD" tvg-logo="http://103.176.90.118/picons/logos/USA/NASA.png" group-title="US| ENTERTAINMENT",US| NASA + HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1114426.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US| FOOD NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK.png" group-title="US| ENTERTAINMENT",US| FOOD NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45577.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US| FX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FX.png" group-title="US| ENTERTAINMENT",US| FX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45451.m3u8
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="US| FXM HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FXM.png" group-title="US| ENTERTAINMENT",US| FXM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45450.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="US| FXX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FXX.png" group-title="US| ENTERTAINMENT",US| FXX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45449.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| GAME TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/GAMETV.png" group-title="US| ENTERTAINMENT",US| GAME TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45472.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="US| GSN HD" tvg-logo="http://103.176.90.118/picons/logos/GSN-HD.jpg" group-title="US| ENTERTAINMENT",US| GSN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45553.m3u8
+#EXTINF:-1 tvg-id="History.us" tvg-name="US| HISTORY HD" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg" group-title="US| ENTERTAINMENT",US| HISTORY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45444.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="US| HGTV HD" tvg-logo="http://103.176.90.118/picons/iptvlogos/HGTV_HD.png" group-title="US| ENTERTAINMENT",US| HGTV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1350074.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US| ID HD" tvg-logo="http://103.176.90.118/picons/logos/ID-HD.jpeg" group-title="US| ENTERTAINMENT",US| ID HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45545.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="US| IFC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/IFC.png" group-title="US| ENTERTAINMENT",US| IFC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45544.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| INFOWARS TV" tvg-logo="http://103.176.90.118/picons/logos/USA/INFOWARS.png" group-title="US| ENTERTAINMENT",US| INFOWARS TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/297628.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="US| LIFETIME HD" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME.png" group-title="US| ENTERTAINMENT",US| LIFETIME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45541.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| LIFETIME MOVIE NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME-MOVIE-NETWORK.png" group-title="US| ENTERTAINMENT",US| LIFETIME MOVIE NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45456.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| MGM HD" tvg-logo="http://103.176.90.118/picons/logos/logos/MGM.png" group-title="US| ENTERTAINMENT",US| MGM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91886.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NAT GEO HD" tvg-logo="http://103.176.90.118/picons/logos/logos/NATGEO.png" group-title="US| ENTERTAINMENT",US| NAT GEO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45453.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NAT GEO WILD HD" tvg-logo="http://103.176.90.118/picons/logos/logos/natgeowild.png" group-title="US| ENTERTAINMENT",US| NAT GEO WILD HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45452.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="US| OUTDOOR CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/OUTDOOR-CHANNEL.png" group-title="US| ENTERTAINMENT",US| OUTDOOR CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90964.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| OUTSIDE TV HD" tvg-logo="http://103.176.90.118/picons/logos/outsidetv.png" group-title="US| ENTERTAINMENT",US| OUTSIDE TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91866.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| PARAMOUNT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/PARAMOUNT.png" group-title="US| ENTERTAINMENT",US| PARAMOUNT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45500.m3u8
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="US| RETROPLEX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/RETROPLEX.png" group-title="US| ENTERTAINMENT",US| RETROPLEX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45507.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="US| SYFY HD" tvg-logo="http://103.176.90.118/picons/logos/SYFY-HD.png" group-title="US| ENTERTAINMENT",US| SYFY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45476.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="US| TBS HD" tvg-logo="http://103.176.90.118/picons/logos/logos/tbs.png" group-title="US| ENTERTAINMENT",US| TBS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45475.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| TCM HD" tvg-logo="http://103.176.90.118/picons/logos/logos/tcm.png" group-title="US| ENTERTAINMENT",US| TCM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90968.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="US| THE WEATHER CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/THE-WEATHER-CHANNEL-HD.png" group-title="US| ENTERTAINMENT",US| THE WEATHER CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45455.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US| TLC HD" tvg-logo="http://103.176.90.118/picons/logos/TLC-HD.png" group-title="US| ENTERTAINMENT",US| TLC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45471.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="US| TNT" tvg-logo="http://103.176.90.118/picons/logos/TNT.jpg" group-title="US| ENTERTAINMENT",US| TNT
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45470.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="US| TRUTV HD" tvg-logo="http://103.176.90.118/picons/logos/logos/trutv.png" group-title="US| ENTERTAINMENT",US| TRUTV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45468.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US| TV LAND HD" tvg-logo="http://103.176.90.118/picons/logos/TV-LAND-HD.jpg" group-title="US| ENTERTAINMENT",US| TV LAND HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45467.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="US| ABC NEWS" tvg-logo="http://103.176.90.118/picons/logos/ABC-NEWS.png" group-title="US| NEWS NETWORK",US| ABC NEWS
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45438.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CBS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CBS.png" group-title="US| NEWS NETWORK",US| CBS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45604.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="US| CBS NEWS" tvg-logo="http://103.176.90.118/picons/logos/USA/CBS-NEWS.png" group-title="US| NEWS NETWORK",US| CBS NEWS
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45603.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US| CNN FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/CNN.png" group-title="US| NEWS NETWORK",US| CNN FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/442785.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CNBC.png" group-title="US| NEWS NETWORK",US| CNBC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45593.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| FOX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX.png" group-title="US| NEWS NETWORK",US| FOX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90959.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| FOX NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-NEWS.png" group-title="US| NEWS NETWORK",US| FOX NEWS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45573.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="US| BLOOMBERG HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BLOOMBERG.png" group-title="US| NEWS NETWORK",US| BLOOMBERG HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91936.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US| MSNBC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MSNBC.png" group-title="US| NEWS NETWORK",US| MSNBC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45535.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NBC SN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/NBC-SN.png" group-title="US| NEWS NETWORK",US| NBC SN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45530.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NESN HD" tvg-logo="http://103.176.90.118/picons/logos/logos/NESN.png" group-title="US| NEWS NETWORK",US| NESN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45528.m3u8
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="US| SPACE CITY HOME NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/SPACE-CITY-HOME-NETWORK.png" group-title="US| SPORTS NETWORK",US| SPACE CITY HOME NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1799657.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NESN PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/NESN-PLUS.png" group-title="US| SPORTS NETWORK",US| NESN PLUS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91903.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CBS SPORTS GALAZO NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CBS-SPORTS-GALAZO-NETWORK.png" group-title="US| SPORTS NETWORK",US| CBS SPORTS GALAZO NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1293199.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-2.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83953.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-4.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 4 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83954.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-5.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 5 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83955.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-6.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 6 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83956.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-7.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 7 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83957.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS 8 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-8.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 8 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/83958.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US| BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS.png" group-title="US| SPORTS NETWORK",US| BEIN SPORTS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45611.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CBS-SPORTS-NETWORK.png" group-title="US| SPORTS NETWORK",US| CBS SPORTS NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45601.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| FOX SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/FOX-SPORTS-1-HD.png" group-title="US| SPORTS NETWORK",US| FOX SPORTS 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45571.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| FOX SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-SPORTS-2.png" group-title="US| SPORTS NETWORK",US| FOX SPORTS 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45570.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="US| FOX SOCCER PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/FOX-SOCCER-PLUS.png" group-title="US| SPORTS NETWORK",US| FOX SOCCER PLUS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45572.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| GOL TV HD" tvg-logo="http://103.176.90.118/picons/logos/laz.goltv.png" group-title="US| SPORTS NETWORK",US| GOL TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91896.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US| MLB NETWORK" tvg-logo="http://103.176.90.118/picons/logos/USA/MLB-NETWORK.png" group-title="US| SPORTS NETWORK",US| MLB NETWORK
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45539.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| MSG HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MSG.png" group-title="US| SPORTS NETWORK",US| MSG HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91900.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| MSG PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MSG.png" group-title="US| SPORTS NETWORK",US| MSG PLUS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91922.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| MSG 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MSG.png" group-title="US| SPORTS NETWORK",US| MSG 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91901.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| MSG 2 PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MSG.png" group-title="US| SPORTS NETWORK",US| MSG 2 PLUS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91902.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| NBC SPORTS NETWORK" tvg-logo="http://103.176.90.118/picons/logos/USA/NBC-SPORTS-NETWORK.png" group-title="US| SPORTS NETWORK",US| NBC SPORTS NETWORK
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/234677.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="US| BOOMERANG HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BOOMERANG.png" group-title="US| KIDS NETWORK",US| BOOMERANG HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45608.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US| CARTOON NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CARTOON-NETWORK.png" group-title="US| KIDS NETWORK",US| CARTOON NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45607.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-CHANNEL-HD.png" group-title="US| KIDS NETWORK",US| DISNEY CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45588.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="US| DISNEY JR HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-JUNIOR-HD.png" group-title="US| KIDS NETWORK",US| DISNEY JR HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45587.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="US| DISNEY XD HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-XD-HD.png" group-title="US| KIDS NETWORK",US| DISNEY XD HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45586.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="US| NICKELODEON HD" tvg-logo="http://103.176.90.118/picons/logos/NICKELODEON-HD.png" group-title="US| KIDS NETWORK",US| NICKELODEON HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45521.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="US| NICK JR HD" tvg-logo="http://103.176.90.118/picons/logos/NICK-JR-HD.png" group-title="US| KIDS NETWORK",US| NICK JR HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45522.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="US| NICK TOONS HD" tvg-logo="http://103.176.90.118/picons/logos/NICK-TOONS-HD.png" group-title="US| KIDS NETWORK",US| NICK TOONS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45520.m3u8
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="US| UNIVERSAL KIDS HD" tvg-logo="http://103.176.90.118/picons/logos/UNIVERSAL-KIDS-HD.png" group-title="US| KIDS NETWORK",US| UNIVERSAL KIDS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45499.m3u8
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="US| ACTION MAX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ACTION-MAX.png" group-title="US| MOVIES NETWORK",US| ACTION MAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45618.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US| CINEMAX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMAX.png" group-title="US| MOVIES NETWORK",US| CINEMAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45597.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CINEMAX ACTION EAST HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMAX.png" group-title="US| MOVIES NETWORK",US| CINEMAX ACTION EAST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45599.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CINEMAX MOREMAX HD" tvg-logo="http://103.176.90.118/picons/logos/CINEMAX-MOREMAX-HD.png" group-title="US| MOVIES NETWORK",US| CINEMAX MOREMAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45596.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CINEMAX THRILLERMAX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMAX-THRILLERMAX.png" group-title="US| MOVIES NETWORK",US| CINEMAX THRILLERMAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45595.m3u8
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="US| MGM+ HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MGM.png" group-title="US| MOVIES NETWORK",US| MGM+ HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45582.m3u8
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="US| MGM+ HITS HD" tvg-logo="http://103.176.90.118/picons/logos/EPIX-2.png" group-title="US| MOVIES NETWORK",US| MGM+ HITS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90955.m3u8
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="US| MGM+ DRIVE" tvg-logo="http://103.176.90.118/picons/logos/EPIX-DRIVE-IN.png" group-title="US| MOVIES NETWORK",US| MGM+ DRIVE
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90957.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US| HBO HD" tvg-logo="http://103.176.90.118/picons/logos/HBO-HD.png" group-title="US| MOVIES NETWORK",US| HBO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45549.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US| HBO 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HBO-2.png" group-title="US| MOVIES NETWORK",US| HBO 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45552.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="US| HBO ZONE HD" tvg-logo="http://103.176.90.118/picons/logos/HBO-ZONE-HD.png" group-title="US| MOVIES NETWORK",US| HBO ZONE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45546.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US| HBO COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/HBO-COMEDY-HD.png" group-title="US| MOVIES NETWORK",US| HBO COMEDY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45551.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US| HBO FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/HBO-FAMILY-HD.png" group-title="US| MOVIES NETWORK",US| HBO FAMILY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45550.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US| HBO SIGNATURE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HBO-SIGNATURE.png" group-title="US| MOVIES NETWORK",US| HBO SIGNATURE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45547.m3u8
+#EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="US| MOREMAX HD" tvg-logo="http://103.176.90.118/picons/logos/MOREMAX-HD.png" group-title="US| MOVIES NETWORK",US| MOREMAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45538.m3u8
+#EXTINF:-1 tvg-id="MoviePlex.us" tvg-name="US| MOVIEPLEX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/MOVIEPLEX.png" group-title="US| MOVIES NETWORK",US| MOVIEPLEX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45536.m3u8
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="US| OUTERMAX HD" tvg-logo="http://103.176.90.118/picons/logos/OUTERMAX-HD.png" group-title="US| MOVIES NETWORK",US| OUTERMAX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45519.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| COWBOY WAY" tvg-logo="http://103.176.90.118/picons/logos/logos/COWBOY-WAY.png" group-title="US| MOVIES NETWORK",US| COWBOY WAY
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1570184.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| CATCHY COMEDY" tvg-logo="http://103.176.90.118/picons/logos/logos/CATCHY-COMEDY.png" group-title="US| MOVIES NETWORK",US| CATCHY COMEDY
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1570183.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| SCREENPIX WESTERNS HD" tvg-logo="http://103.176.90.118/picons/logos/SCREENPIX-WESTERNS.png" group-title="US| MOVIES NETWORK",US| SCREENPIX WESTERNS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/551775.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| SCREENPIX VOICES HD" tvg-logo="http://103.176.90.118/picons/logos/SCREENPIX-VOICES.png" group-title="US| MOVIES NETWORK",US| SCREENPIX VOICES HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/551776.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| SCREENPIX ACTION HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ScreenPix_Action.png" group-title="US| MOVIES NETWORK",US| SCREENPIX ACTION HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/551777.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| SHOWTIME HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME.png" group-title="US| MOVIES NETWORK",US| SHOWTIME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45503.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="US| SHOWTIME 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-2.png" group-title="US| MOVIES NETWORK",US| SHOWTIME 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45505.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="US| SHOWTIME EXTREME HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-EXTREME.png" group-title="US| MOVIES NETWORK",US| SHOWTIME EXTREME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91887.m3u8
+#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="US| SHOWTIME FAMILY ZONE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-FAMILY-ZONE.png" group-title="US| MOVIES NETWORK",US| SHOWTIME FAMILY ZONE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91888.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US| SHOWTIME NEXT HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-NEXT.png" group-title="US| MOVIES NETWORK",US| SHOWTIME NEXT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/92019.m3u8
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="US| SHOWTIME SHOWCASE HD" tvg-logo="http://103.176.90.118/picons/logos/SHOWTIME-SHOWCASE-HD.png" group-title="US| MOVIES NETWORK",US| SHOWTIME SHOWCASE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45502.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="US| SHOWTIME WOMEN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWTIME-WOMEN.png" group-title="US| MOVIES NETWORK",US| SHOWTIME WOMEN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/92018.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| SCREENPIX HD" tvg-logo="http://103.176.90.118/picons/logos/SCREENPIX-.png" group-title="US| MOVIES NETWORK",US| SCREENPIX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/551778.m3u8
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="US| SONY MOVIE CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/SONY-MOVIE-CHANNEL-HD.png" group-title="US| MOVIES NETWORK",US| SONY MOVIE CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91789.m3u8
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="US| MGM+ MARQUEE" tvg-logo="http://103.176.90.118/picons/logos/USA/MGM-MARQUEE.png" group-title="US| MOVIES NETWORK",US| MGM+ MARQUEE
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/90956.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US| STARZ HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-EAST.png" group-title="US| MOVIES NETWORK",US| STARZ HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45480.m3u8
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US| STARZ CINEMA HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-EAST.png" group-title="US| MOVIES NETWORK",US| STARZ CINEMA HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45496.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US| STARZ EDGE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-EDGE.png" group-title="US| MOVIES NETWORK",US| STARZ EDGE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45492.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US| STARZ COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/STARZ-CINEMA-HD.png" group-title="US| MOVIES NETWORK",US| STARZ COMEDY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45494.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US| STARZ ENCORE ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-ENCORE-ACTION.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE ACTION HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45489.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="US| STARZ ENCORE CLASSIC HD" tvg-logo="http://103.176.90.118/picons/logos/STARZ-ENCORE-CLASSIC-HD.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE CLASSIC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45487.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US| STARZ ENCORE EAST HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-ENCORE-EAST.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE EAST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45486.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US| STARZ ENCORE FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STARZ-ENCORE-FAMILY.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE FAMILY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45485.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US| STARZ ENCORE HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STARZ-ENCORE.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45484.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US| STARZ ENCORE SUSPENSE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-EAST.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE SUSPENSE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91948.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US| STARZ ENCORE WESTERNS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-EAST.png" group-title="US| MOVIES NETWORK",US| STARZ ENCORE WESTERNS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91947.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US| STARZ KIDS & FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STARZ-KIDS-FAMILY.png" group-title="US| MOVIES NETWORK",US| STARZ KIDS & FAMILY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/45479.m3u8
+#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="US| THE MOVIE CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/THE-MOVIE-CHANNEL-HD.png" group-title="US| MOVIES NETWORK",US| THE MOVIE CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/91889.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="US| THE FILM DETECTIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/THE-FILM-DETECTIVE.png" group-title="US| MOVIES NETWORK",US| THE FILM DETECTIVE
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1278275.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US| NHL NETWORK" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",US| NHL NETWORK
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/746188.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 01 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 01 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 02 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 02 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836420.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 03 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 03 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836419.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 04 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 04 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836418.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 05 - 7PM Edmonton Oilers at Florida Panthers" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 05 - 7PM Edmonton Oilers at Florida Panthers
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836417.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 06 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 06 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836416.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 07 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 07 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836415.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 08 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 08 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836414.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 09 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 09 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836413.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 10 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 10 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836412.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 11 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 11 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836411.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 12 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 12 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836410.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 13 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 13 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836409.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 14 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 14 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836408.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL | 15 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL | 15 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/836407.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL LIVE| 16 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL LIVE| 16 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1354219.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL LIVE| 17 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL LIVE| 17 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1354220.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL LIVE| 18 -" tvg-logo="http://103.176.90.118/picons/logos/USA/NHL-LIVE.png" group-title="US| NHL PACKAGE",NHL LIVE| 18 -
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1354221.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 1 |" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 1 |
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679130.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 2 | MLSCountdown start:2025-03-01 23:25:00 stop:2025-03-02 02:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 2 | MLSCountdown start:2025-03-01 23:25:00 stop:2025-03-02 02:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679129.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 3 | Colorado vs. Dallas start:2025-03-02 02:25:00 stop:2025-03-02 05:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 3 | Colorado vs. Dallas start:2025-03-02 02:25:00 stop:2025-03-02 05:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679128.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 4 | SaltLake vs. Seattle start:2025-03-01 21:25:00 stop:2025-03-02 00:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 4 | SaltLake vs. Seattle start:2025-03-01 21:25:00 stop:2025-03-02 00:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 5 | Philadelphia vs. Cincinnati start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 5 | Philadelphia vs. Cincinnati start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679126.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 6 | SanDiego vs. St.Louis start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 6 | SanDiego vs. St.Louis start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679125.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 7| NewEngland vs. Columbus start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 7| NewEngland vs. Columbus start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679124.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 8| LAFC vs. NewYorkCity start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 8| LAFC vs. NewYorkCity start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 9 | NewYork vs. Nashville start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 9 | NewYork vs. Nashville start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679122.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 10| Portland vs. Austin start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 10| Portland vs. Austin start:2025-03-02 03:25:00 stop:2025-03-02 06:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679121.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 15 | Chicago vs. D.C. start:2025-03-02 01:25:00 stop:2025-03-02 04:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 15 | Chicago vs. D.C. start:2025-03-02 01:25:00 stop:2025-03-02 04:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/679120.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 11 | Orlando vs. Toronto start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 11 | Orlando vs. Toronto start:2025-03-02 00:25:00 stop:2025-03-02 03:07:00
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1344195.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLS Live 12 | MLS360 start:2025-03-02 00:25:15 stop:2025-03-02 03:07:15" tvg-logo="http://103.176.90.118/picons/logos/USA/MLS.png" group-title="US| MLS NETWORK",MLS Live 12 | MLS360 start:2025-03-02 00:25:15 stop:2025-03-02 03:07:15
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1344194.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BBC-NEWS.png" group-title="UK| GENERAL HEVC",UK| BBC NEWS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458580.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK| GB NEWS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/GB-NEWS.png" group-title="UK| GENERAL HEVC",UK| GB NEWS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458578.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK| SKY NEWS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-NEWS.png" group-title="UK| GENERAL HEVC",UK| SKY NEWS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458565.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK| BBC1 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BBC1.png" group-title="UK| GENERAL HEVC",UK| BBC1 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458576.m3u8
+#EXTINF:-1 tvg-id="BBC2(England).uk" tvg-name="UK| BBC2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BBC2.png" group-title="UK| GENERAL HEVC",UK| BBC2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458577.m3u8
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="UK| ITV1 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/ITV1.png" group-title="UK| GENERAL HEVC",UK| ITV1 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458571.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK| CHANNEL 4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CHANNEL-4.png" group-title="UK| GENERAL HEVC",UK| CHANNEL 4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458569.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK| CHANNEL 5 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/CHANNEL-5.png" group-title="UK| GENERAL HEVC",UK| CHANNEL 5 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458570.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/ITV-2.png" group-title="UK| GENERAL HEVC",UK| ITV 2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458555.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK| ITV 3 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/ITV-3.png" group-title="UK| GENERAL HEVC",UK| ITV 3 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458556.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK| ITV 4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/ITV-4.png" group-title="UK| GENERAL HEVC",UK| ITV 4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458557.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK| E4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/E4.png" group-title="UK| GENERAL HEVC",UK| E4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458549.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK| SKY NEWS FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-NEWS.png" group-title="UK| NEWS",UK| SKY NEWS FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1081655.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HEVC" tvg-logo="http://103.176.90.118/picons/logos/UK/BBC-ONE.png" group-title="UK| NEWS",UK| BBC NEWS HEVC
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/111541.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| COMEDY CENTRAL HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/COMEDY-CENTRAL.png" group-title="UK| ENTERTAINMENT HEVC",UK| COMEDY CENTRAL HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458771.m3u8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK| MORE4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/MORE-4.png" group-title="UK| ENTERTAINMENT HEVC",UK| MORE4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458766.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK| SKY ARTS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-ARTS.png" group-title="UK| ENTERTAINMENT HEVC",UK| SKY ARTS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458775.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK| SKY ATLANTIC HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-ATLANTIC.png" group-title="UK| ENTERTAINMENT HEVC",UK| SKY ATLANTIC HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458784.m3u8
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK| SKY COMEDY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-COMEDY.png" group-title="UK| ENTERTAINMENT HEVC",UK| SKY COMEDY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458782.m3u8
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK| SKY SHOWCASE HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SHOWCASE.png" group-title="UK| ENTERTAINMENT HEVC",UK| SKY SHOWCASE HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458779.m3u8
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK| SKY WITNESS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-WITNESS.png" group-title="UK| ENTERTAINMENT HEVC",UK| SKY WITNESS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458778.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK| CARTOON NETWORK  HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/CARTOON-NETWORK.png" group-title="UK| KIDS HEVC",UK| CARTOON NETWORK  HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458592.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/NICK.png" group-title="UK| KIDS HEVC",UK| NICK HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458591.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK| NICK JR HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/NICK-JR.png" group-title="UK| KIDS HEVC",UK| NICK JR HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458590.m3u8
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="UK| SKY KIDS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/sky-kids.png" group-title="UK| KIDS HEVC",UK| SKY KIDS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458584.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| FILM 4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/FILM-4.png" group-title="UK| MOVIES HEVC",UK| FILM 4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458808.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA ACTION HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-ACTION.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA ACTION HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458806.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA ANIMATION HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-ANIMATION.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA ANIMATION HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA COMEDY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-COMEDY.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA COMEDY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458805.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA DRAMA/CHRISTMAS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-DRAMA.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA DRAMA/CHRISTMAS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458804.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA FAMILY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-FAMILY.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA FAMILY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458803.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA GREATS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-GREATS.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA GREATS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458802.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA HITS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-HITS.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA HITS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458801.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA PREMIER HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-PREMIERE.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA PREMIER HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458800.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA SCIFI/HORROR HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-SCIFI-HORROR.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA SCIFI/HORROR HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458799.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA SELECT/FEEL GOOD HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-SELECT.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA SELECT/FEEL GOOD HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458798.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CINEMA THRILLER HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CINEMA-THRILLER.png" group-title="UK| MOVIES HEVC",UK| SKY CINEMA THRILLER HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458797.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HEVC HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS NEWS HEVC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458681.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MAIN EVENTS HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458672.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK| TNT SPORTS 1 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPORTS.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458678.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK| TNT SPORTS 1 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPORTS.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458667.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK| TNT SPORTS 2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPORTS.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458666.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK| TNT SPORTS 3 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPORTS.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 3 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458665.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK| TNT SPORTS 4 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPORTS.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 4 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458815.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ACTION HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458677.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ARENA HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458676.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS CRICKET HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458675.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS FOOTBALL HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458674.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458669.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORTS 1  HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/EUROSPORTS-1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 1  HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458649.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORTS 2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/EUROSPORTS-2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458648.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| VIAPLAY 1 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/VIAPLAY.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 1 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458646.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| VIAPLAY 2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/VIAPLAY.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458645.m3u8
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK| LFC HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/LFC.png" group-title="UK| SPORTS HEVC",UK| LFC HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458774.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NATIONAL GEO HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/NATIONAL-GEO.png" group-title="UK| DOCUMENTARY HEVC",UK| NATIONAL GEO HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458749.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| Nat Geo WIld HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/NATIONAL-GEO.png" group-title="UK| DOCUMENTARY HEVC",UK| Nat Geo WIld HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458748.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| DISCOVERY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/DISCOVERY.png" group-title="UK| DOCUMENTARY HEVC",UK| DISCOVERY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458756.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY HISTORY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-HISTORY.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458753.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY HISTORY 2 HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-HISTORY-2.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY 2 HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458752.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY NATURE HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-Nature.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY NATURE HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458747.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SKY CRIME HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-CRIME.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY CRIME HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458761.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SYFY HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/SYFY.png" group-title="UK| DOCUMENTARY HEVC",UK| SYFY HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458754.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| CRIME INVESTIGATION HEVC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/CRIME-INVESTIGATION.png" group-title="UK| DOCUMENTARY HEVC",UK| CRIME INVESTIGATION HEVC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458757.m3u8
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="D+| QUEST RED HD" tvg-logo="http://103.176.90.118/picons/logos/UK/QUEST.png" group-title="UK| DISCOVERY +",D+| QUEST RED HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549407.m3u8
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="D+| QUEST HD" tvg-logo="http://103.176.90.118/picons/logos/UK/QUEST-RED.png" group-title="UK| DISCOVERY +",D+| QUEST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549397.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="D+| DISCOVERY HISTORY" tvg-logo="http://103.176.90.118/picons/logos/UK/DISCOVERY-SD.png" group-title="UK| DISCOVERY +",D+| DISCOVERY HISTORY
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549400.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="D+| DISCOVERY SCIENCE" tvg-logo="http://103.176.90.118/picons/logos/UK/DISCOVERY-SD.png" group-title="UK| DISCOVERY +",D+| DISCOVERY SCIENCE
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549401.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="D+| DISCOVERY TURBO" tvg-logo="http://103.176.90.118/picons/logos/UK/Discovery_Turbo-2.png" group-title="UK| DISCOVERY +",D+| DISCOVERY TURBO
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549402.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="D+| ANIMAL PLANET FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/Animal_Planet.png" group-title="UK| DISCOVERY +",D+| ANIMAL PLANET FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549398.m3u8
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="D+| DMAX" tvg-logo="http://103.176.90.118/picons/logos/UK/DMAX.png" group-title="UK| DISCOVERY +",D+| DMAX
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549403.m3u8
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="D+| HGTV" tvg-logo="http://103.176.90.118/picons/logos/UK/HGTV.png" group-title="UK| DISCOVERY +",D+| HGTV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549405.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="D+| ID" tvg-logo="http://103.176.90.118/picons/logos/UK/ID-+1.png" group-title="UK| DISCOVERY +",D+| ID
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549406.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D+| REALLY" tvg-logo="http://103.176.90.118/picons/logos/UK/REALLY.png" group-title="UK| DISCOVERY +",D+| REALLY
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549408.m3u8
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="D+| TLC FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/TLC.png" group-title="UK| DISCOVERY +",D+| TLC FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549409.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="D+| FOOD NETWORK" tvg-logo="http://103.176.90.118/picons/logos/UK/FOODNETWORK.png" group-title="UK| DISCOVERY +",D+| FOOD NETWORK
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/549404.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORT 1 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/483921.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORT 2 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/483920.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM1HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 PREMIUM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238261.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM2HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 PREMIUM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238262.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM3HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 PREMIUM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238263.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-1HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238265.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-2HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238264.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-3HD.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238266.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT4.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 4 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238267.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT5.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 5 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238268.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT6.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 6 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238269.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 7 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/238270.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS MAXIMO HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MAXIMO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/425666.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS ACTION HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/425668.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPER SPORTS PLAY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="UK| WORLD SPORTS",UK| SUPER SPORTS PLAY 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/425313.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS PLAY 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_2.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PLAY 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/425311.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS PL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-premier-league.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/239078.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS LIGA HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS LIGA HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/239076.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| SUPERSPORTS FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS FOOTBALL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/239083.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| ASTRO SUPERSPORTS 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="UK| WORLD SPORTS",UK| ASTRO SUPERSPORTS 1 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1016544.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| ASTRO SUPERSPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="UK| WORLD SPORTS",UK| ASTRO SUPERSPORTS 2
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1016545.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/918986.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/918985.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="UK| WORLD SPORTS",UK| ASTRO SPORTS 3 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/918984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 4K 616" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032489.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 4K 617" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032488.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS1.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 1
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032487.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS2.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 2
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032486.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS3.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 3
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032485.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS4.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 4
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032484.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS5.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 5
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032483.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS6.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 6
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032482.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 7
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032481.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK PREMIER SPORTS 8" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 8
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032480.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS1.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032479.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS2.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032478.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS3.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032477.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS4.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032476.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS5.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032475.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS6.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032474.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1032473.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT UHD/4k" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT UHD/4k
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594809.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594808.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 2
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 3" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 3
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594806.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 4" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 4
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594805.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 5" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 5
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594804.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 6" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 6
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594803.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 7" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 7
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594802.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 8" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 8
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594801.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK| EUROSPORT 9" tvg-logo="http://103.176.90.118/picons/logos/logos/EURO-SPORT.png" group-title="UK| EUROSPORTS",UK| EUROSPORT 9
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1594800.m3u8
+#EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="CA| A&E HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ae.png" group-title="CA| ENGLISH",CA| A&E HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176861.m3u8
+#EXTINF:-1 tvg-id="ABCSpark(English).ca" tvg-name="CA| ABC SPARK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ABC-SPARK.png" group-title="CA| ENGLISH",CA| ABC SPARK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1458074.m3u8
+#EXTINF:-1 tvg-id="AMC(English).ca" tvg-name="CA| AMC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/AMC.png" group-title="CA| ENGLISH",CA| AMC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176864.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| ANIMAL PLANET HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ANIMAL-PLANET.png" group-title="CA| ENGLISH",CA| ANIMAL PLANET HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176865.m3u8
+#EXTINF:-1 tvg-id="BBCEarth(English).ca" tvg-name="CA| BBC EARTH HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BBC-EARTH.png" group-title="CA| ENGLISH",CA| BBC EARTH HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176867.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CA| CBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Current_Logo_for_CBC_News_Network.png" group-title="CA| ENGLISH",CA| CBC NEWS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176801.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CBC EAST HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CBC.png" group-title="CA| ENGLISH",CA| CBC EAST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176800.m3u8
+#EXTINF:-1 tvg-id="CityTv(English).ca" tvg-name="CA| CITY TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CITY.png" group-title="CA| ENGLISH",CA| CITY TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176806.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CITY TV 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CITY.png" group-title="CA| ENGLISH",CA| CITY TV 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CP24 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CP24.png" group-title="CA| ENGLISH",CA| CP24 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176805.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CPAC HD" tvg-logo="http://103.176.90.118/picons/logos/CPAC-HD-FRENCH.jpg" group-title="CA| ENGLISH",CA| CPAC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176811.m3u8
+#EXTINF:-1 tvg-id="CottageLife(English).ca" tvg-name="CA| COTTAGE LIFE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/COTTAGE-LIFE.png" group-title="CA| ENGLISH",CA| COTTAGE LIFE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176873.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CRIME & INVESTIGATION HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRIME-INVESTIGATION.png" group-title="CA| ENGLISH",CA| CRIME & INVESTIGATION HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176874.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| COOKING CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/USA/COOKING-CHANNEL.png" group-title="CA| ENGLISH",CA| COOKING CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176889.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV.png" group-title="CA| ENGLISH",CA| CTV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176812.m3u8
+#EXTINF:-1 tvg-id="CTVCOMEDYCHANNEL(English).ca" tvg-name="CA| CTV COMEDY CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-COMEDY-CHANNEL-WEST.png" group-title="CA| ENGLISH",CA| CTV COMEDY CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176815.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV2.png" group-title="CA| ENGLISH",CA| CTV 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176813.m3u8
+#EXTINF:-1 tvg-id="CTVDRAMACHANNEL(English).ca" tvg-name="CA| CTV DRAMA CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-DRAMA-CHANNEL.png" group-title="CA| ENGLISH",CA| CTV DRAMA CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176817.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV DRAMA HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-DRAMA-CHANNEL.png" group-title="CA| ENGLISH",CA| CTV DRAMA HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176871.m3u8
+#EXTINF:-1 tvg-id="CTVLIFECHANNEL(English).ca" tvg-name="CA| CTV LIFE CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-LIFE-CHANNEL.png" group-title="CA| ENGLISH",CA| CTV LIFE CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176818.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-NEWS.png" group-title="CA| ENGLISH",CA| CTV NEWS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176814.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV SCIFI HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CTV-SCIFI.png" group-title="CA| ENGLISH",CA| CTV SCIFI HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176819.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| GLOBAL EAST HD" tvg-logo="http://103.176.90.118/picons/logos/global.png" group-title="CA| ENGLISH",CA| GLOBAL EAST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176824.m3u8
+#EXTINF:-1 tvg-id="TheWeatherNetwork(English).ca" tvg-name="CA| THE WEATHER CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/THE-WEATHER-CHANNEL-HD.png" group-title="CA| ENGLISH",CA| THE WEATHER CHANNEL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/716435.m3u8
+#EXTINF:-1 tvg-id="DejaView(English).ca" tvg-name="CA| DEJAVIEW" tvg-logo="http://103.176.90.118/picons/logos/dejaview.png" group-title="CA| ENGLISH",CA| DEJAVIEW
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176833.m3u8
+#EXTINF:-1 tvg-id="GameTV(English).ca" tvg-name="CA| GAMETV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/GAMETV.png" group-title="CA| ENGLISH",CA| GAMETV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176835.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="CA| GAME SHOW NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/gameshownetwork.png" group-title="CA| ENGLISH",CA| GAME SHOW NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176837.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| OLN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/OLN.png" group-title="CA| ENGLISH",CA| OLN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176843.m3u8
+#EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="CA| TVO HD" tvg-logo="http://103.176.90.118/picons/logos/USA/TVO.png" group-title="CA| ENGLISH",CA| TVO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176852.m3u8
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="CA| ADULT SWIM HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ADULT-SWIM.png" group-title="CA| ENGLISH",CA| ADULT SWIM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176862.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="CA| INVESTIGATION DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/INVESTIGATION-DISCOVERY.png" group-title="CA| ENGLISH",CA| INVESTIGATION DISCOVERY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176875.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel(English).ca" tvg-name="CA| DISCOVERY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="CA| ENGLISH",CA| DISCOVERY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176876.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| DISCOVERY SCIENCE HD" tvg-logo="http://103.176.90.118/picons/logos/discoverysciencehd.png" group-title="CA| ENGLISH",CA| DISCOVERY SCIENCE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176877.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| DISCOVERY VELOCITY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY-VELOCITY.png" group-title="CA| ENGLISH",CA| DISCOVERY VELOCITY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176878.m3u8
+#EXTINF:-1 tvg-id="documentary(English).ca" tvg-name="CA| DOCUMENTARY HD" tvg-logo="http://103.176.90.118/picons/logos/documentary.png" group-title="CA| ENGLISH",CA| DOCUMENTARY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176879.m3u8
+#EXTINF:-1 tvg-id="DTour(English).ca" tvg-name="CA| DTOUR HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DTOUR.png" group-title="CA| ENGLISH",CA| DTOUR HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176881.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.118/picons/logos/USA/E_-ENTERTAINMENT.png" group-title="CA| ENGLISH",CA| E! ENTERTAINMENT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176882.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork(English).ca" tvg-name="CA| FOOD NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOOD-NETWORK.png" group-title="CA| ENGLISH",CA| FOOD NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176888.m3u8
+#EXTINF:-1 tvg-id="HGTV(English).ca" tvg-name="CA| HGTV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HGTV.png" group-title="CA| ENGLISH",CA| HGTV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176891.m3u8
+#EXTINF:-1 tvg-id="HISTORY2(English).ca" tvg-name="CA| HISTORY 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HISTORY-2.png" group-title="CA| ENGLISH",CA| HISTORY 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176893.m3u8
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="CA| HISTORY HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HISTORY.png" group-title="CA| ENGLISH",CA| HISTORY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176892.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| IFC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/IFC.png" group-title="CA| ENGLISH",CA| IFC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176895.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| NAT GEO HD" tvg-logo="http://103.176.90.118/picons/logos/USA/NAT-GEO.png" group-title="CA| ENGLISH",CA| NAT GEO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176897.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| NAT GEO WILD HD" tvg-logo="http://103.176.90.118/picons/logos/USA/NAT-GEO-WILD.png" group-title="CA| ENGLISH",CA| NAT GEO WILD HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176898.m3u8
+#EXTINF:-1 tvg-id="OUTtv(English).ca" tvg-name="CA| OUT TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/OUT.png" group-title="CA| ENGLISH",CA| OUT TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176899.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| PARAMOUNT HD" tvg-logo="http://103.176.90.118/picons/logos/USA/PARAMOUNT.png" group-title="CA| ENGLISH",CA| PARAMOUNT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176904.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| SPORTSMAN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSMAN.png" group-title="CA| ENGLISH",CA| SPORTSMAN HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176905.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| TLC HD" tvg-logo="http://103.176.90.118/picons/logos/USA/TLC.png" group-title="CA| ENGLISH",CA| TLC HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176906.m3u8
+#EXTINF:-1 tvg-id="WILDTV(English).ca" tvg-name="CA| WILD TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/WILD-TV.png" group-title="CA| ENGLISH",CA| WILD TV HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176908.m3u8
+#EXTINF:-1 tvg-id="FX(English).ca" tvg-name="CA| FX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FX.png" group-title="CA| ENGLISH",CA| FX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176911.m3u8
+#EXTINF:-1 tvg-id="FXX(English).ca" tvg-name="CA| FXX HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FX.png" group-title="CA| ENGLISH",CA| FXX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176912.m3u8
+#EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="CA| HBO 1 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HBO-1.png" group-title="CA| ENGLISH",CA| HBO 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176913.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| HBO 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HBO-2.png" group-title="CA| ENGLISH",CA| HBO 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176914.m3u8
+#EXTINF:-1 tvg-id="ZeeTV(English).ca" tvg-name="CA| ZEE TV CANADA" tvg-logo="http://103.176.90.118/picons/logos/USA/ZEE-TV-CANADA.png" group-title="CA| ENGLISH",CA| ZEE TV CANADA
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1193365.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| HOLLYWOOD SUITE 00' HD" tvg-logo="http://103.176.90.118/picons/logos/USA/HOLLYWOOD-SUITE.png" group-title="CA| ENGLISH",CA| HOLLYWOOD SUITE 00' HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1147062.m3u8
+#EXTINF:-1 tvg-id="HollywoodSuite70s(English).ca" tvg-name="CA| HOLLYWOOD SUITE 70S" tvg-logo="http://103.176.90.118/picons/logos/USA/HOLLYWOOD-SUITE.png" group-title="CA| ENGLISH",CA| HOLLYWOOD SUITE 70S
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176916.m3u8
+#EXTINF:-1 tvg-id="HollywoodSuite80s(English).ca" tvg-name="CA| HOLLYWOOD SUITE 80S" tvg-logo="http://103.176.90.118/picons/logos/USA/HOLLYWOOD-SUITE.png" group-title="CA| ENGLISH",CA| HOLLYWOOD SUITE 80S
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176917.m3u8
+#EXTINF:-1 tvg-id="HollywoodSuite90s(English).ca" tvg-name="CA| HOLLYWOOD SUITE 90S" tvg-logo="http://103.176.90.118/picons/logos/USA/HOLLYWOOD-SUITE.png" group-title="CA| ENGLISH",CA| HOLLYWOOD SUITE 90S
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176918.m3u8
+#EXTINF:-1 tvg-id="Lifetime(English).ca" tvg-name="CA| LIFETIME HD" tvg-logo="http://103.176.90.118/picons/logos/USA/LIFETIME.png" group-title="CA| ENGLISH",CA| LIFETIME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176919.m3u8
+#EXTINF:-1 tvg-id="MovieTime(English).ca" tvg-name="CA| MOVIETIME HD" tvg-logo="http://103.176.90.118/picons/logos/movietime.png" group-title="CA| ENGLISH",CA| MOVIETIME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176921.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| PEACH TREE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/PEACH-TREE.png" group-title="CA| ENGLISH",CA| PEACH TREE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176926.m3u8
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="CA| SHOWCASE HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SHOWCASE.png" group-title="CA| ENGLISH",CA| SHOWCASE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176927.m3u8
+#EXTINF:-1 tvg-id="SilverScreenClassics(English).ca" tvg-name="CA| SILVER SCREEN CLASSICS HD" tvg-logo="http://103.176.90.118/picons/logos/silverscreen.png" group-title="CA| ENGLISH",CA| SILVER SCREEN CLASSICS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176928.m3u8
+#EXTINF:-1 tvg-id="STARZ1(English).ca" tvg-name="CA| STARZ 1 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-1.png" group-title="CA| ENGLISH",CA| STARZ 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176929.m3u8
+#EXTINF:-1 tvg-id="STARZ2(English).ca" tvg-name="CA| STARZ 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/STARZ-1.png" group-title="CA| ENGLISH",CA| STARZ 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176930.m3u8
+#EXTINF:-1 tvg-id="SuperChannelFuse(English).ca" tvg-name="CA| SUPER CHANNEL FUSE HD" tvg-logo="http://103.176.90.118/picons/logos/superchannel.png" group-title="CA| ENGLISH",CA| SUPER CHANNEL FUSE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176931.m3u8
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome(English).ca" tvg-name="CA| SUPER CHANNEL HEART & HOME HD" tvg-logo="http://103.176.90.118/picons/logos/superchannel.png" group-title="CA| ENGLISH",CA| SUPER CHANNEL HEART & HOME HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176932.m3u8
+#EXTINF:-1 tvg-id="SuperChannelVault(English).ca" tvg-name="CA| SUPER CHANNEL VAULT HD" tvg-logo="http://103.176.90.118/picons/logos/superchannel.png" group-title="CA| ENGLISH",CA| SUPER CHANNEL VAULT HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176933.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| TCM HD" tvg-logo="http://103.176.90.118/picons/logos/USA/TCM.png" group-title="CA| ENGLISH",CA| TCM HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176935.m3u8
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="CA| CRAVE 1 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRAVE.png" group-title="CA| ENGLISH",CA| CRAVE 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176936.m3u8
+#EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="CA| CRAVE 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRAVE.png" group-title="CA| ENGLISH",CA| CRAVE 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176937.m3u8
+#EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="CA| CRAVE 3 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRAVE.png" group-title="CA| ENGLISH",CA| CRAVE 3 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176938.m3u8
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="CA| CRAVE 4 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CRAVE.png" group-title="CA| ENGLISH",CA| CRAVE 4 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176939.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| YTV EAST HD" tvg-logo="http://103.176.90.118/picons/logos/ytv.png" group-title="CA| ENGLISH",CA| YTV EAST HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/176941.m3u8
+#EXTINF:-1 tvg-id="FamilyJr(English).ca" tvg-name="CA| FAMILY JUNIOR HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-JUNIOR.png" group-title="CA| KIDS",CA| FAMILY JUNIOR HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177341.m3u8
+#EXTINF:-1 tvg-id="FamilyChannel(English).ca" tvg-name="CA| FAMILY CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/USA/FAMILY-CHANNEL.png" group-title="CA| KIDS",CA| FAMILY CHANNEL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/962531.m3u8
+#EXTINF:-1 tvg-id="Treehouse(English).ca" tvg-name="CA| TREEHOUSE HD" tvg-logo="http://103.176.90.118/picons/logos/TREEHOUSE-HD.png" group-title="CA| KIDS",CA| TREEHOUSE HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177337.m3u8
+#EXTINF:-1 tvg-id="WildBrainTV(East)(English).ca" tvg-name="CA| WILD BRAIN TV" tvg-logo="http://103.176.90.118/picons/logos/CHRGD-HD.png" group-title="CA| KIDS",CA| WILD BRAIN TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177336.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon(English).ca" tvg-name="CA| NICKELODEON HD" tvg-logo="http://103.176.90.118/picons/logos/NICKELODEON-HD.png" group-title="CA| KIDS",CA| NICKELODEON HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177335.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel(English).ca" tvg-name="CA| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-CHANNEL-HD.png" group-title="CA| KIDS",CA| DISNEY CHANNEL HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177334.m3u8
+#EXTINF:-1 tvg-id="DisneyXD(English).ca" tvg-name="CA| DISNEY XD HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DISNEY-XD.png" group-title="CA| KIDS",CA| DISNEY XD HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177333.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="CA| BOOMERANG HD" tvg-logo="http://103.176.90.118/picons/logos/CARTOON-NETWORK-HD.png" group-title="CA| KIDS",CA| BOOMERANG HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177332.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior(English).ca" tvg-name="CA| DISNEY JUNIOR HD" tvg-logo="http://103.176.90.118/picons/logos/DISNEY-JUNIOR-HD.png" group-title="CA| KIDS",CA| DISNEY JUNIOR HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177331.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="CA| CARTOON NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/TELETOON-FRENCH.png" group-title="CA| KIDS",CA| CARTOON NETWORK HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177339.m3u8
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CA| CBC TORONTO HD" tvg-logo="http://103.176.90.118/picons/logos/CBC-TORONTO-HD.png" group-title="CA| LOCALS",CA| CBC TORONTO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177369.m3u8
+#EXTINF:-1 tvg-id="CitytvToronto(English).ca" tvg-name="CA| CITY TV TORONTO HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CITY-TV-TORONTO.png" group-title="CA| LOCALS",CA| CITY TV TORONTO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177374.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| CTV 2 TORONTO HD" tvg-logo="http://103.176.90.118/picons/logos/CTV-2-TORONTO-HD.png" group-title="CA| LOCALS",CA| CTV 2 TORONTO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177393.m3u8
+#EXTINF:-1 tvg-id="CTVToronto(English).ca" tvg-name="CA| CTV TORONTO HD" tvg-logo="http://103.176.90.118/picons/logos/CTV-TORONTO-HD.png" group-title="CA| LOCALS",CA| CTV TORONTO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177392.m3u8
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="CA| GLOBAL TORONTO HD" tvg-logo="http://103.176.90.118/picons/logos/logos/GLOBAL-TORONTO.png" group-title="CA| LOCALS",CA| GLOBAL TORONTO HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177404.m3u8
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="CA| TSN1 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TSN1.png" group-title="CA| SPORT",CA| TSN1 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904216.m3u8
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="CA| TSN2 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TSN2.png" group-title="CA| SPORT",CA| TSN2 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904215.m3u8
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="CA| TSN3 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TSN3.png" group-title="CA| SPORT",CA| TSN3 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904214.m3u8
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="CA| TSN4 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TSN4.png" group-title="CA| SPORT",CA| TSN4 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904213.m3u8
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="CA| TSN5 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/TSN5.png" group-title="CA| SPORT",CA| TSN5 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904212.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| ONE SOCCER HD" tvg-logo="http://103.176.90.118/picons/logos/ONE-SOCCER.png" group-title="CA| SPORT",CA| ONE SOCCER HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/950327.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="CA| BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-1.png" group-title="CA| SPORT",CA| BEIN SPORTS 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177356.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-2.png" group-title="CA| SPORT",CA| BEIN SPORTS 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177357.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-4.png" group-title="CA| SPORT",CA| BEIN SPORTS 4 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177358.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-5.png" group-title="CA| SPORT",CA| BEIN SPORTS 5 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177359.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-6.png" group-title="CA| SPORT",CA| BEIN SPORTS 6 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177360.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-7.png" group-title="CA| SPORT",CA| BEIN SPORTS 7 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177361.m3u8
+#EXTINF:-1 tvg-id="beINSports(English).ca" tvg-name="CA| BEIN SPORTS 8 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BEIN-SPORTS-8.png" group-title="CA| SPORT",CA| BEIN SPORTS 8 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/177362.m3u8
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="CA| SPORTSNET 360 FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-360.png" group-title="CA| SPORTSNET",CA| SPORTSNET 360 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA| SPORTSNET EAST FHD" tvg-logo="http://103.176.90.118/picons/logos/SPORTSNET-EAST-HD.png" group-title="CA| SPORTSNET",CA| SPORTSNET EAST FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904210.m3u8
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="CA| SPORTSNET WWE FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SN-WWE.png" group-title="CA| SPORTSNET",CA| SPORTSNET WWE FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904204.m3u8
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="CA| SPORTSNET ONE FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-ONE-FHD.png" group-title="CA| SPORTSNET",CA| SPORTSNET ONE FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904209.m3u8
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA| SPORTSNET ONTARIO FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-ONTARIO-FHD.png" group-title="CA| SPORTSNET",CA| SPORTSNET ONTARIO FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904208.m3u8
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="CA| SPORTSNET WORLD FHD" tvg-logo="http://103.176.90.118/picons/logos/SPORTSNET-WEST-HD.png" group-title="CA| SPORTSNET",CA| SPORTSNET WORLD FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/904205.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="##### DE BUNDESLIGA #####" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DE-GENERAL.png" group-title="DE| BUNDESLIGA",##### DE BUNDESLIGA #####
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/490204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 4K [LIVE-EVENT]" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 4K [LIVE-EVENT]
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411573.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA FHD" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/971682.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-1-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411425.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-1-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 1 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411572.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 1 FHD*" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-1-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 1 FHD*
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411571.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 2 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-2-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 2 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411424.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 2 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-2-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 2 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411570.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-2-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411569.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 3 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-3-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 3 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411423.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 3 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-3-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411568.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-3-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411567.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 4 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 4 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411422.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411566.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-4-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411565.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 5 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 5 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411421.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 5 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 5 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 5 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-5-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411563.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 6 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411420.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 6 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 6 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411562.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 6 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-6-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411561.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 7 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 7 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411419.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 7 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 7 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411560.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 7 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-7-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411559.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 8 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 8 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411418.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 8 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 8 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411558.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 8 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-8-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411557.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 9 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 9 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411417.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 9 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 9 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411556.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga9(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 9 FHD* (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-9-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411555.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 10 HD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 10 HD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411416.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-BUNDESLIGA-10-FHD.png" group-title="DE| BUNDESLIGA",DE| SKY BUNDESLIGA 10 FHD (NUR WÄHREND DER LIVE SPIELE)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411554.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| BUNDESLIGA (DAZN STREAM)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BUNDESLIGA.png" group-title="DE| BUNDESLIGA",DE| BUNDESLIGA (DAZN STREAM)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411415.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| BUNDESLIGA (DAZN STREAM)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BUNDESLIGA.png" group-title="DE| BUNDESLIGA",DE| BUNDESLIGA (DAZN STREAM)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/411548.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA FHD" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216673.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA HD" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216676.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga1(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-1-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 1 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216679.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga1(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-1-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 1 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216682.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga2(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-2-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 2 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216685.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga2(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-2-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 2 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216688.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga3(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-3-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 3 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216691.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga3(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-3-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 3 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216694.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga4(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-4-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 4 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216697.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga4(src01).de" tvg-name="DE| SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-4-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 4 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216700.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-5-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 5 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216703.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-5-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 5 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216706.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-6-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 6 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216709.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-6-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 6 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216712.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-7-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 7 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216715.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE| SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-7-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 7 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216718.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga8(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-8-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 8 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216721.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga8(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-8-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 8 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216724.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga9(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORT-BUNDESLIGA-9.jpeg" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 9 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216727.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga9(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-9-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 9 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216730.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga10(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-10-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 10 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216733.m3u8
+#EXTINF:-1 tvg-id="SkySportBundesliga10(German).de" tvg-name="DE| SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-SPORT-BUNDESLIGA-10-HD.png" group-title="DE| BUNDESLIGA",DE| SKY SPORT BUNDESLIGA 10 HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1216736.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| GMA PINOY HD" tvg-logo="http://103.176.90.118/picons/logos/logos/GMA-PINOY.png" group-title="PHILIPPINES",PH| GMA PINOY HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223027.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| GMA NEWS TV" tvg-logo="http://103.176.90.118/picons/logos/logos/GMA-NEWS.png" group-title="PHILIPPINES",PH| GMA NEWS TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223025.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| GMA LIFE TV" tvg-logo="http://103.176.90.118/picons/logos/logos/GMA-LIFE.png" group-title="PHILIPPINES",PH| GMA LIFE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223021.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| KAPATID TV5" tvg-logo="http://103.176.90.118/picons/logos/KAPATID5.png" group-title="PHILIPPINES",PH| KAPATID TV5
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223020.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TV5" tvg-logo="http://103.176.90.118/picons/logos/logos/TV5%20.png" group-title="PHILIPPINES",PH| TV5
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| ANC" tvg-logo="http://103.176.90.118/picons/logos/logos/ANC.png" group-title="PHILIPPINES",PH| ANC
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926212.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| BUKO CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="PHILIPPINES",PH| BUKO CHANNEL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926198.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| CINEMO" tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMO.png" group-title="PHILIPPINES",PH| CINEMO
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731855.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| CINEMA ONE GLOBAL" tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMA-ONE-GLOBAL.png" group-title="PHILIPPINES",PH| CINEMA ONE GLOBAL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223018.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| CINEMA 1" tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMA-1.png" group-title="PHILIPPINES",PH| CINEMA 1
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/223079.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| ONE NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ONE-NEWS.png" group-title="PHILIPPINES",PH| ONE NEWS HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926160.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| ONE PH" tvg-logo="http://103.176.90.118/picons/logos/logos/ONE-PH.png" group-title="PHILIPPINES",PH| ONE PH
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731816.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| PTV4" tvg-logo="http://103.176.90.118/picons/logos/PTV4.png" group-title="PHILIPPINES",PH| PTV4
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731809.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| KAPAMILYA" tvg-logo="http://103.176.90.118/picons/logos/logos/KAPAMILYA.png" group-title="PHILIPPINES",PH| KAPAMILYA
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731786.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TAP MOVIES HD" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAP-MOVIES.png" group-title="PHILIPPINES",PH| TAP MOVIES HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926152.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TAP TV" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAP-TV.png" group-title="PHILIPPINES",PH| TAP TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926151.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TAP ACTION FLIX HD" tvg-logo="http://103.176.90.118/picons/logos/logos/TAP-ACTION-FLIX.png" group-title="PHILIPPINES",PH| TAP ACTION FLIX HD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926149.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TAP EDGE CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TAP-EDGE.png" group-title="PHILIPPINES",PH| TAP EDGE CHANNEL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926148.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| DEPED" tvg-logo="http://103.176.90.118/picons/logos/logos/DEPED.png" group-title="PHILIPPINES",PH| DEPED
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926186.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TELERADYO SERBISYO" tvg-logo="http://103.176.90.118/picons/logos/logos/TELERADYO-SERBISYO.png" group-title="PHILIPPINES",PH| TELERADYO SERBISYO
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| MP TV" tvg-logo="http://103.176.90.118/picons/logos/logos/MP-TV.png" group-title="PHILIPPINES",PH| MP TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926172.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| UAAP VARSITY CH" tvg-logo="http://103.176.90.118/picons/logos/logos/UAAP-VARSITY.png" group-title="PHILIPPINES",PH| UAAP VARSITY CH
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926145.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| ASIAN FOOD" tvg-logo="" group-title="PHILIPPINES",PH| ASIAN FOOD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731866.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| ANIMAX" tvg-logo="http://103.176.90.118/picons/logos/Animax.png" group-title="PHILIPPINES",PH| ANIMAX
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731865.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| AXN" tvg-logo="http://103.176.90.118/picons/logos/logos/axn.png" group-title="PHILIPPINES",PH| AXN
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731863.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| PBA RUSH" tvg-logo="http://103.176.90.118/picons/logos/PBA-RUSH.jpg" group-title="PHILIPPINES",PH| PBA RUSH
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/914598.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| IBC13" tvg-logo="http://103.176.90.118/picons/logos/logos/IBC13.png" group-title="PHILIPPINES",PH| IBC13
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731830.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| KNOWLEDGE CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/logos/KNOWLEDGE-CHANNEL.png" group-title="PHILIPPINES",PH| KNOWLEDGE CHANNEL
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731823.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| RPTV" tvg-logo="http://51.158.145.100/picons/logos/logos/RPTV.png" group-title="PHILIPPINES",PH| RPTV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731869.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| PBO" tvg-logo="http://103.176.90.118/picons/logos/PBO-TV.jpeg" group-title="PHILIPPINES",PH| PBO
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731812.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| SARI SARI" tvg-logo="http://103.176.90.118/picons/logos/logos/SARI-SARI.png" group-title="PHILIPPINES",PH| SARI SARI
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| TFC" tvg-logo="http://103.176.90.118/picons/logos/logos/TFC.png" group-title="PHILIPPINES",PH| TFC
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731803.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH|MYX" tvg-logo="" group-title="PHILIPPINES",PH|MYX
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/731795.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PH| A2Z" tvg-logo="http://103.176.90.118/picons/logos/logos/A2Z.png" group-title="PHILIPPINES",PH| A2Z
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/926206.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ADULT TINY4K 2 TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ADULT TINY4K 2 TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774010.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ALBA XXX 2 (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ALBA XXX 2 (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/309867.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ANAL TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ANAL TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777791.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ASIAN TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ASIAN TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777784.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BABES TV HD (S)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BABES TV HD (S)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/128761.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BARELY LEGAL TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BARELY LEGAL TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777856.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BARELY LEGAL TV (S)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BARELY LEGAL TV (S)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/128764.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BIG ASS FHD" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG ASS FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777853.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BIG ASS TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG ASS TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777783.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BIG DICK TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG DICK TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777756.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BIG TITS TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIG TITS TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777753.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BIZARRE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BIZARRE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777774.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BLACKED 1 TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLACKED 1 TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774020.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BLONDE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLONDE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777752.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BLOWJOB TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLOWJOB TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773979.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BLUE HUSTLER" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BLUE HUSTLER
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/131876.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - brazzers" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - brazzers
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777854.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BRAZZERS TV EUROPE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRAZZERS TV EUROPE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777780.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BROKEN MILF FHD" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BROKEN MILF FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777844.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - BRUNETTE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - BRUNETTE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777735.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - CANDY TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CANDY TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773971.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - CENTO X CENTO (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CENTO X CENTO (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/131882.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - CUM4K 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - CUM4K 1 FHD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777835.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - DORCEL TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777777.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - DORCEL TV HD (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV HD (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/53070.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - DORCEL TV XXX HD (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DORCEL TV XXX HD (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/267612.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - DUSK TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - DUSK TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777738.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ERO X HD (S)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ERO X HD (S)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/53066.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - EROTIC 3" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EROTIC 3
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774028.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - EVIL ANGEL (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EVIL ANGEL (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/138463.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - EXTASY TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - EXTASY TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774018.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - FAP TV COMPILATION TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV COMPILATION TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777765.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - FAP TV LESBIAN TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - FAP TV LESBIAN TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777764.m3u8
+#EXTINF:-1 tvg-id="HustlerTV.us" tvg-name="XXX - hustler" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - hustler
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773993.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - HUSTLER HD+" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HUSTLER HD+
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - HUSTLER TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - HUSTLER TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774031.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - INTERRACIAL TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - INTERRACIAL TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774008.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - JASMIN TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - JASMIN TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774034.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - JUICY" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - JUICY
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/309922.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - LATINA TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LATINA TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777826.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - LEO TV (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LEO TV (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/138529.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - LESBIAN TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - LESBIAN TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777830.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - MEIDEN VAN HOLLAND" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MEIDEN VAN HOLLAND
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777813.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - MILF TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - MILF TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777838.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PASSIE" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PASSIE
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/128813.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PASSION XXX 2 (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PASSION XXX 2 (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/138469.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PENTHOUSE 2 TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PENTHOUSE 2 TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774070.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PENTHOUSE GOLD" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PENTHOUSE GOLD
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/777760.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PLAYBOY TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYBOY TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774045.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV.us" tvg-name="XXX - PLAYBOY TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PLAYBOY TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773975.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PRIVATE HD+" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PRIVATE HD+
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773990.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PUBLICK AGENT TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PUBLICK AGENT TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774023.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - PURE BABES (S)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - PURE BABES (S)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/309866.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - REDHOT" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - REDHOT
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/550702.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - RED XXX HD (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - RED XXX HD (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/128817.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - REDLIGHT TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - REDLIGHT TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774033.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - ROUGE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - ROUGE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/138478.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - RUSSIAN_NIGHT TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - RUSSIAN_NIGHT TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773989.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - SECRET CIRCLE TV (S)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SECRET CIRCLE TV (S)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/138525.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - SEXTREME TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SEXTREME TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773992.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - SKINEMAX" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SKINEMAX
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/550703.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - SKYE BLUE TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SKYE BLUE TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774004.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - SUPER ONE HD (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - SUPER ONE HD (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/207934.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - VENUS TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - VENUS TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/774000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - VISIT-X TV" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - VISIT-X TV
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/773959.m3u8
+#EXTINF:-1 tvg-id="VividTV.us" tvg-name="XXX - VIVID" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - VIVID
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1779872.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - VIVID RED" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - VIVID RED
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1779873.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX - VIVID TOUCH" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - VIVID TOUCH
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/1779871.m3u8
+#EXTINF:-1 tvg-id="XXL.fr" tvg-name="XXX - XXL (H)" tvg-logo="http://103.176.90.118/picons/logos/xxx.png" group-title="FOR ADULTS",XXX - XXL (H)
+http://37681-poetry.ott-tx.com:80/live/7e1bf1ad3a/5175d67bf6ca/53055.m3u8
